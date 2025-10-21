@@ -1,13 +1,13 @@
-# 🦊 OrangeFox Recovery for {{DEVICE}} ({{DEVICE_NAME}})
+# 🦊 OrangeFox Recovery for  SM6115 (chime)
 
 <div align="center">
 
 ![OrangeFox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQkL6PDlh_yc0uuf_zfIhuuUsBikUf6A5JZbwQ-tX6w&s=10)
 
-**Unofficial Build - {{BUILD_DATE}}**
+**Unofficial Build - 20251022**
 
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)]()
-[![OrangeFox](https://img.shields.io/badge/OrangeFox-{{FOX_SYNC_BRANCH}}-orange)]()
+[![OrangeFox](https://img.shields.io/badge/OrangeFox-12.1-orange)]()
 [![Android](https://img.shields.io/badge/Android-12.1-blue)]()
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green)]()
 
@@ -15,25 +15,25 @@
 
 ## 📋 Device Information
 
-- **Device**: {{DEVICE}}
-- **Codename**: {{DEVICE_NAME}}
-- **OrangeFox Branch**: {{FOX_SYNC_BRANCH}}
-- **Build Date**: {{BUILD_DATE}}
-- **Build Time**: {{ORF_TIME}}
-- **Top Commit**: {{DT_COMMIT}}
+- **Device**:  SM6115
+- **Codename**: chime
+- **OrangeFox Branch**: 12.1
+- **Build Date**: 20251022
+- **Build Time**: 20:28 
+- **Top Commit**: chime: droped target screen w|h
 
 ## 📥 Download
 
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
-- **Size**: {{ORF_SIZE}}
-- **Download**: [GitHub Releases](https://github.com/{{REPO_PUBLISH}}/releases/tag/{{ORF_ID}})
+- **Size**: 68M
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/5143587375022080)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `{{ORF_MD5}}` |
-| **SHA1** | `{{ORF_SHA1}}` |
+| **MD5** | `8c64276c436e682abb19776e46556a3e` |
+| **SHA1** | `708df82e589f402ad9cbfa93e294595aa20b7bb2` |
 
 ## ⚡ Features
 
