@@ -19,7 +19,7 @@
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
 - **Build Date**: 20251021
-- **Build Time**: 19:51 
+- **Build Time**: 20:52 
 - **Top Commit**: chime: droped target screen w|h
 
 ## 📥 Download
@@ -27,13 +27,13 @@
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 68M
-- **Download**: [GitHub Releases](https://github.com/anggitmrt87/cirrus_orf/releases/tag/4698877602824192)
+- **Download**: [GitHub Releases](https://github.com/{{REPO_PUBLISH}}/releases/tag/5339015991263232)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `eb599d9271eefb64c4b2c0909d1caf97` |
-| **SHA1** | `ee96a68941e4f957f98e5a1d47925119c3c2e01c` |
+| **MD5** | `0811d98f715d8a987837cc93909df8d2` |
+| **SHA1** | `e419b35e518afb298ab82f40d411430ef813a5e7` |
 
 ## ⚡ Features
 
