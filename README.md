@@ -19,21 +19,21 @@
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
 - **Build Date**: 20251022
-- **Build Time**: 20:28 
-- **Top Commit**: chime: droped target screen w|h
+- **Build Time**: 20:23 
+- **Top Commit**: add support for installing KernelSU
 
 ## 📥 Download
 
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 68M
-- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/5143587375022080)
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/6427383655301120)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `8c64276c436e682abb19776e46556a3e` |
-| **SHA1** | `708df82e589f402ad9cbfa93e294595aa20b7bb2` |
+| **MD5** | `62a39d11bbea7027b643274e8a5dc129` |
+| **SHA1** | `c78bc67de93f014567c5d63bf13da312f15374cf` |
 
 ## ⚡ Features
 
