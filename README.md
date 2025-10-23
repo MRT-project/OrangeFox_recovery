@@ -4,7 +4,7 @@
 
 ![OrangeFox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQkL6PDlh_yc0uuf_zfIhuuUsBikUf6A5JZbwQ-tX6w&s=10)
 
-**Unofficial Build - 20251022**
+**Unofficial Build - 20251023**
 
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)]()
 [![OrangeFox](https://img.shields.io/badge/OrangeFox-12.1-orange)]()
@@ -18,22 +18,22 @@
 - **Device**:  SM6115
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
-- **Build Date**: 20251022
-- **Build Time**: 20:23 
-- **Top Commit**: add support for installing KernelSU
+- **Build Date**: 20251023
+- **Build Time**: 20:26 
+- **Top Commit**: added name spaces
 
 ## 📥 Download
 
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 68M
-- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/6427383655301120)
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/4630404180738048)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `62a39d11bbea7027b643274e8a5dc129` |
-| **SHA1** | `c78bc67de93f014567c5d63bf13da312f15374cf` |
+| **MD5** | `77dbe5ca248ac8da4c9008ad2fe35cc6` |
+| **SHA1** | `67c8f06c5320aea72f0c2086919fe87a2d838549` |
 
 ## ⚡ Features
 
