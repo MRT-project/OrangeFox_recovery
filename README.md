@@ -19,7 +19,7 @@
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
 - **Build Date**: 20251030
-- **Build Time**: 19:45 
+- **Build Time**: 19:55 
 - **Top Commit**: call fox chime before call device
 
 ## 📥 Download
@@ -27,13 +27,13 @@
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 68M
-- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/4943175510392832)
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/6263700975255552)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `aa2c7c0c0bce13667d00755a3a86412d` |
-| **SHA1** | `b5b9260ab8c06f8353e07f6dd7475b4035ca6ad1` |
+| **MD5** | `5c72819b3b4ea6a2a1f5204b8b66e61c` |
+| **SHA1** | `1d57ab4919ecc86d61e1e87f645389ecd50aee45` |
 
 ## ⚡ Features
 
