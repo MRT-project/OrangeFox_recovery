@@ -19,8 +19,8 @@
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
 - **Build Date**: 20251030
-- **Build Time**: 20:19 
-- **Top Commit**: drop UEFI
+- **Build Time**: 19:45 
+- **Top Commit**: call fox chime before call device
 
 ## 📥 Download
 
@@ -32,8 +32,8 @@
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `8d99e5313e05fba64aa40b467f6c7da4` |
-| **SHA1** | `d55cd72b27c8b71e49e58ff7a9f8bb3a73ac4696` |
+| **MD5** | `aa2c7c0c0bce13667d00755a3a86412d` |
+| **SHA1** | `b5b9260ab8c06f8353e07f6dd7475b4035ca6ad1` |
 
 ## ⚡ Features
 
