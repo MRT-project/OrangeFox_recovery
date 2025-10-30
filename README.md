@@ -4,7 +4,7 @@
 
 ![OrangeFox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQkL6PDlh_yc0uuf_zfIhuuUsBikUf6A5JZbwQ-tX6w&s=10)
 
-**Unofficial Build - 20251027**
+**Unofficial Build - 20251030**
 
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)]()
 [![OrangeFox](https://img.shields.io/badge/OrangeFox-12.1-orange)]()
@@ -18,8 +18,8 @@
 - **Device**:  SM6115
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
-- **Build Date**: 20251027
-- **Build Time**: 21:29 
+- **Build Date**: 20251030
+- **Build Time**: 20:19 
 - **Top Commit**: drop UEFI
 
 ## 📥 Download
@@ -27,13 +27,13 @@
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 68M
-- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/6259419475869696)
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/4943175510392832)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `ce42f04ce6c9621af23e4cf2c6ff4a38` |
-| **SHA1** | `95cd1a0f2ce79a3ba12511d814f90b1c33cea45c` |
+| **MD5** | `8d99e5313e05fba64aa40b467f6c7da4` |
+| **SHA1** | `d55cd72b27c8b71e49e58ff7a9f8bb3a73ac4696` |
 
 ## ⚡ Features
 
