@@ -4,7 +4,7 @@
 
 ![OrangeFox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQkL6PDlh_yc0uuf_zfIhuuUsBikUf6A5JZbwQ-tX6w&s=10)
 
-**Unofficial Build - 20251111**
+**Unofficial Build - 20260114**
 
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)]()
 [![OrangeFox](https://img.shields.io/badge/OrangeFox-12.1-orange)]()
@@ -18,22 +18,22 @@
 - **Device**:  SM6115
 - **Codename**: chime
 - **OrangeFox Branch**: 12.1
-- **Build Date**: 20251111
-- **Build Time**: 20:32 
-- **Top Commit**: R11.3.3
+- **Build Date**: 20260114
+- **Build Time**: 19:57 
+- **Top Commit**: Adding cust partition support flash
 
 ## 📥 Download
 
 ### Latest Release
 - **Filename**: `OrangeFox-*.zip`
 - **Size**: 69M
-- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/4844207820505088)
+- **Download**: [GitHub Releases](https://github.com/MRT-project/OrangeFox_recovery/releases/tag/5464147359432704)
 
 ### File Verification
 | Type | Hash |
 |------|------|
-| **MD5** | `e19880087c651126b2973e24635bd246` |
-| **SHA1** | `166f37593beb1dfdf9c1722838fe8774e77d0284` |
+| **MD5** | `d4719febe88f9186414b8e2aec592a95` |
+| **SHA1** | `56fc6742ae686796fd8fb24c2d3f25e8acec9570` |
 
 ## ⚡ Features
 
